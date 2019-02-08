@@ -1,0 +1,42 @@
+body {
+  background-color: #ffe6cc;
+}
+
+#source-link {
+  font-size: 20px;
+}
+
+#logo {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: block;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.btn-primary {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: block;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+  .card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: block;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+.card-title {
+  text-align: center;
+  }
